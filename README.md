@@ -10,10 +10,10 @@ This is a sample code. No information regarding passwords or location is provide
 
 - Structure (relevant files):
 
-/Events/module/Application/config/module.config.php -> router
-/Events/config/autoload/global.php -> DB info
-/Events/module/Application/Module.php
-/Events/module/Application/src/Application/ -> MVC
+* /Events/module/Application/config/module.config.php -> router
+* /Events/config/autoload/global.php -> DB info
+* /Events/module/Application/Module.php
+* /Events/module/Application/src/Application/ -> MVC
 
 
 - Applications:
