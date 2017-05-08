@@ -8,6 +8,13 @@ This is a sample code. No information regarding passwords or location is provide
 * Use eventful API for creating dummy events
 * Use spatial DB
 
+- Structure (relevant files):
+/Events/module/Application/config/module.config.php -> router
+/Events/config/autoload/global.php -> DB info
+/Events/module/Application/Module.php
+/Events/module/Application/src/Application/ -> MVC
+
+
 - Applications:
 
-The application for this source code is for storing/fetching events information via API.
+*The application for this source code is for storing/fetching events information via API.
