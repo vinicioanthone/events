@@ -5,7 +5,8 @@ This is a sample code. No information regarding passwords or location is provide
 Characteristics:
 
 * Zend Framework 2
-* Use eventful API for creating dummy events
+* The user can create events via POST or use eventful API for creating dummy events.
+* The user can GET all points of interests (events information including lat and lon) around the given location (latitude and longitude). For example we can display in a mobile app map using the current location and finding its nearest neighbors.
 * Use spatial DB
 
 Structure (relevant files):
