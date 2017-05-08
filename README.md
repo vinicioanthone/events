@@ -2,13 +2,13 @@
 
 This is a sample code. No information regarding passwords or location is provided. The path names are fiction.
 
-- Characteristics:
+Characteristics:
 
 * Zend Framework 2
 * Use eventful API for creating dummy events
 * Use spatial DB
 
-- Structure (relevant files):
+Structure (relevant files):
 
 * /Events/module/Application/config/module.config.php -> router
 * /Events/config/autoload/global.php -> DB info
@@ -16,6 +16,6 @@ This is a sample code. No information regarding passwords or location is provide
 * /Events/module/Application/src/Application/ -> MVC
 
 
-- Applications:
+Applications:
 
 *The application for this source code is for storing/fetching events information via API.
